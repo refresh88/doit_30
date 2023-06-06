@@ -1,4 +1,4 @@
-package algo;
+package algo.dataStructure;
 
 import java.io.BufferedReader;
 import java.io.IOException;
